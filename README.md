@@ -109,6 +109,5 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 ![Screenshot 2024-10-24 112810](https://github.com/user-attachments/assets/e546292b-9230-48f1-908f-3c7dda1d1064)
-
 ## RESULT
 Thus a Simple Android Application to create and design an android application that draws basic graphical primitives on the screen using Android Studio is developed and executed successfully.
